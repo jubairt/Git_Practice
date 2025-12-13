@@ -1,5 +1,4 @@
 Hello World!
 I am Jubair
 I am from kerala
-I am learnign Git Branching
 I live in india

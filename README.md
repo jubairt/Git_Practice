@@ -57,6 +57,11 @@ git log --oneline
 git branch
 ```
 
+### 🔹 Change name of the branch
+```bash
+git branch -M main
+```
+
 ### 🔹 Create a New Branch
 ```bash
 git branch feature-x
